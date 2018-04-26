@@ -1,0 +1,6 @@
+import UIKit
+import PlaygroundSupport
+
+let objectRecognitionVC: ObjectRecognitionResultViewController = ObjectRecognitionResultViewController.instantiateFromStoryboard()
+PlaygroundPage.current.liveView = objectRecognitionVC
+

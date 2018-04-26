@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>loadF</string>
+			<key>ModifiedRange</key>
+			<string>{2964, 5}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##f</string>
+			<key>OriginalRange</key>
+			<string>{2964, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>Image()</string>
+			<key>ModifiedRange</key>
+			<string>{2974, 7}</string>
+			<key>OriginalContent</key>
+			<string> image##UIImage#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{2975, 17}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{3166, 0}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##</string>
+			<key>OriginalRange</key>
+			<string>{3177, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>T</string>
+			<key>ModifiedRange</key>
+			<string>{3172, 1}</string>
+			<key>OriginalContent</key>
+			<string> t</string>
+			<key>OriginalRange</key>
+			<string>{3188, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{3175, 0}</string>
+			<key>OriginalContent</key>
+			<string>t##S</string>
+			<key>OriginalRange</key>
+			<string>{3192, 4}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{3176, 0}</string>
+			<key>OriginalContent</key>
+			<string>ring#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{3197, 6}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/FilterFun.playgroundchapter/Pages/CustomFilter.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+import UIKit
+import PlaygroundSupport
+
+let digitRecognitionVC: DigitRecognitionResultViewController = DigitRecognitionResultViewController.instantiateFromStoryboard()
+PlaygroundPage.current.liveView = digitRecognitionVC

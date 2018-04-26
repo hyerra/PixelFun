@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Pixel Fun 🎡</string>
+	<key>Subtitle</key>
+	<string>Exploring the Power of Pixels</string>
+	<key>SwiftVersion</key>
+	<string>4.1</string>
+	<key>Version</key>
+	<string>3.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>ContentIdentifier</key>
+	<string>com.harishyerra.wwdc.PixelFun</string>
+	<key>DeploymentTarget</key>
+	<string>ios11.0</string>
+	<key>ImageReference</key>
+	<string>PixelFun.png</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>Chapters</key>
+	<array>
+		<string>HandwritingFun.playgroundchapter</string>
+		<string>ObjectRecognitionFun.playgroundchapter</string>
+		<string>FilterFun.playgroundchapter</string>
+		<string>ARFun.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

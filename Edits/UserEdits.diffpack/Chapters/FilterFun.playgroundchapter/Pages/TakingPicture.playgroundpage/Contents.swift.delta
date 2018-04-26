@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>.ba</string>
+			<key>ModifiedRange</key>
+			<string>{3678, 3}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##</string>
+			<key>OriginalRange</key>
+			<string>{3678, 5}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>k</string>
+			<key>ModifiedRange</key>
+			<string>{3682, 1}</string>
+			<key>OriginalContent</key>
+			<string>amera position##CameraManager.CameraPosition#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{3684, 46}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{3748, 0}</string>
+			<key>OriginalContent</key>
+			<string>&lt;#T##flash setting##CameraManager</string>
+			<key>OriginalRange</key>
+			<string>{3795, 33}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>off</string>
+			<key>ModifiedRange</key>
+			<string>{3749, 3}</string>
+			<key>OriginalContent</key>
+			<string>FlashSetting#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{3829, 14}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/FilterFun.playgroundchapter/Pages/TakingPicture.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

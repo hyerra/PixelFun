@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>avfoundation</key>
+		<dict>
+			<key>Title</key>
+			<string>AVFoundation</string>
+			<key>Definition</key>
+			<string>Framework that allows you to work with images and videos, control cameras, and manage audio.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Taking a Picture</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/TakingPicture.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>coreimage</key>
+		<dict>
+			<key>Title</key>
+			<string>Core Image</string>
+			<key>Definition</key>
+			<string>A high performance image and video processing framework that enables you to use built-in or custom filters.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Optimizing the Picture</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/OptimizingPicture.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>opengl</key>
+		<dict>
+			<key>Title</key>
+			<string>Open GL Shading Language</string>
+			<key>Definition</key>
+			<string>Language that gives developers access to the graphics pipeline and in this situation allows us to optimize our images and create custom image effects.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Optimizing the Picture</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/OptimizingPicture.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>machinelearning</key>
+		<dict>
+			<key>Title</key>
+			<string>Machine Learning</string>
+			<key>Definition</key>
+			<string>Gives computer systems the ability to &quot;learn&quot; based on a dataset without being explicitly programmed.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Recognizing the Digit</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/DigitRecognition.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>cnn</key>
+		<dict>
+			<key>Title</key>
+			<string>Convolutional Neural Network</string>
+			<key>Definition</key>
+			<string>Type of machine learning model that is a feed-forward artificial neural network which means that connections between units do not form a cycle. Commonly used to help analyze images.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Recognizing the Digit</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/DigitRecognition.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>enum</key>
+		<dict>
+			<key>Title</key>
+			<string>Enumeration</string>
+			<key>Definition</key>
+			<string>Defines a common type for a group of related values so that you can work with them in a type-safe way.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Taking a Picture</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/TakingPicture.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>coreml</key>
+		<dict>
+			<key>Title</key>
+			<string>Core ML</string>
+			<key>Definition</key>
+			<string>Framework that allows you to integrate trained machine learning models into your app.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Recognizing the Digit</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/DigitRecognition.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>vision</key>
+		<dict>
+			<key>Title</key>
+			<string>Vision</string>
+			<key>Definition</key>
+			<string>Simplifies the process of applying Machine Learning models and other computer vision algorithims to images and video.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Recognizing the Digit</string>
+				<key>PageReference</key>
+				<string>HandwritingFun.playgroundchapter/DigitRecognition.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>pixelbuffer</key>
+		<dict>
+			<key>Title</key>
+			<string>CVPixelBuffer</string>
+			<key>Definition</key>
+			<string>Image buffer that holds pixels in memory.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Detecting the Object</string>
+				<key>PageReference</key>
+				<string>ObjectRecognitionFun.playgroundchapter/DetectingObject.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>ar</key>
+		<dict>
+			<key>Title</key>
+			<string>Augmented Reality</string>
+			<key>Definition</key>
+			<string>Technology that places digital assets in the real world.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Enabling the Camera</string>
+				<key>PageReference</key>
+				<string>ARFun.playgroundchapter/EnableCamera.playgroundpage</string>
+			</dict>
+		</dict>
+		<key>arkit</key>
+		<dict>
+			<key>Title</key>
+			<string>ARKit</string>
+			<key>Definition</key>
+			<string>Framework within iOS that enables iOS to augment content into the world through the camera.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Enabling the Camera</string>
+				<key>PageReference</key>
+				<string>ARFun.playgroundchapter/EnableCamera.playgroundpage</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
